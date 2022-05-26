@@ -3,10 +3,10 @@
     <channel>
         <title>Debt Now App - easytransfert</title>
         <item>
-            <title>Version 3.0.6</title>
+            <title>Version 3.0.7</title>
             <description>desc</description>
-            <pubDate>Fry, 11 Mar 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.phincode.easy_transfert" sparkle:version="3.0.6" sparkle:os="android" />
+            <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.phincode.easy_transfert" sparkle:version="3.0.7" sparkle:os="android" />
         </item>
     </channel>
 </rss>
